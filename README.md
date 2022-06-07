@@ -8,7 +8,7 @@ In this type of communication, people will communicate using eye blinks accordin
 Inspired from Google's Experiment about how they used morse code to help differently abled people to communicate efficiently. I decided to implement morse code translator using computer vision which is cheaper and efficient option as the code generated is also stored in form of audio and text formates for convinence of people and can be used by differently abled people to communicate.
 
 # Working
-This project translates morse code in plain english. We used webcam to read blinking of the eyes as dots and dashes which then with the use of a dictionary converts morse to english.
+This project translates morse code in plain english. We used webcam to read blinking of the eyes as dots and dashes which then with the use of a dictionary converts morse to english. I have used jetson nano kit of nvidia for this project
 
 File morse_converter.py contains the python dictionary. For reference I have also included the Dictonary to learn Morse better.
 Short Blink : Dot ' . '
@@ -24,5 +24,5 @@ Too Long Blink:Next Word
 # How to run
 Install libraries specified.Then clone this repository or Download and run following:
 
-To run it on Web Cam
+To run in command lne/termnal
 -python eye_blink_Morse.py --shape-predictor shape_predictor_68_face_landmarks.dat
