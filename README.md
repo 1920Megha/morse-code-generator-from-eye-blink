@@ -1,2 +1,2 @@
 # morse-code-generator-from-eye-blink
-This project is to convert eye blinks into morse code and in a readable form.
+Morse code is a a system of communication developed by Samuel Morse in which the letters of the alphabet are coded as a combination of dots and dashes so that messages can either be sent using light, sound or wireless or by EYE BLINK. Morse Code encodes the ISO basic alphabet, numerals and a small set of punctuation and procedural signals (prosigns) as standardized sequences of short and long signals called "dots" and "dashes", or "dits" and "dahs", as in amateur radio practice.
