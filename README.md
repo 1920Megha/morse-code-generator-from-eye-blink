@@ -17,7 +17,7 @@ File morse_converter.py contains the python dictionary. For reference I have als
 
 - The audio and text file of message will be stored in audio folder
 
-- ![](https://github.com/1920Megha/morse-code-generator-from-eye-blink/blob/main/Eye%20blink.gif)
+![](https://github.com/1920Megha/morse-code-generator-from-eye-blink/blob/main/Eye%20blink.gif)
 # Required libraries
 1)OpenCv
 2)imutils
