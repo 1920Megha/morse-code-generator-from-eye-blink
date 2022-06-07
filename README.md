@@ -15,6 +15,7 @@ Short Blink : Dot ' . '
 Long Blink : Dash ' - '
 Too Long Blink:Next Word
 
+![](https://github.com/1920Megha/morse-code-generator-from-eye-blink/blob/main/Eye%20blink.gif)
 # Required libraries
 1)OpenCv
 2)imutils
