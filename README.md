@@ -26,4 +26,4 @@ File morse_converter.py contains the python dictionary. For reference I have als
 Install libraries specified.Then clone this repository or Download and run following:
 
 To run in command lne/termnal
--python eye_blink_Morse.py --shape-predictor shape_predictor_68_face_landmarks.dat
+- python eye_blink_Morse.py --shape-predictor shape_predictor_68_face_landmarks.dat
