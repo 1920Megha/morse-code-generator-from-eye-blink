@@ -11,9 +11,9 @@ Inspired from Google's Experiment about how they used morse code to help differe
 This project translates morse code in plain english. We used webcam to read blinking of the eyes as dots and dashes which then with the use of a dictionary converts morse to english. I have used jetson nano kit of nvidia for this project
 
 File morse_converter.py contains the python dictionary. For reference I have also included the Dictonary to learn Morse better.
-Short Blink : Dot ' . '
-Long Blink : Dash ' - '
-Too Long Blink:Next Word
+- Short Blink : Dot ' . '
+- Long Blink : Dash ' - '
+- Too Long Blink:Next Word
 
 ![](https://github.com/1920Megha/morse-code-generator-from-eye-blink/blob/main/Eye%20blink.gif)
 # Required libraries
