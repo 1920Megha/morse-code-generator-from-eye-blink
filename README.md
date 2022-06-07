@@ -15,8 +15,9 @@ File morse_converter.py contains the python dictionary. For reference I have als
 - Long Blink : Dash ' - '
 - Too Long Blink:Next Word
 
-The audio and text file of message will be stored in audio folder
-![](https://github.com/1920Megha/morse-code-generator-from-eye-blink/blob/main/Eye%20blink.gif)
+- The audio and text file of message will be stored in audio folder
+
+- ![](https://github.com/1920Megha/morse-code-generator-from-eye-blink/blob/main/Eye%20blink.gif)
 # Required libraries
 1)OpenCv
 2)imutils
